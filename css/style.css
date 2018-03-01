@@ -317,6 +317,13 @@ header li:hover ul{
   position: absolute; padding: 0; display: block; width: 260px;
 }
 
+.profile {
+  float: left;
+  border-radius: 50%;
+  height: 100px;
+  width: 93px;
+  margin: 0px 20px 0px 0px;
+}
 
 
 /*
